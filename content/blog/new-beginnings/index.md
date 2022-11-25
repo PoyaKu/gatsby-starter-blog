@@ -1,6 +1,6 @@
 ---
 title: RUISI
-date: "2021-10-1"
+date: "2021-10-01"
 description: GOOD IMG
 ---
 
